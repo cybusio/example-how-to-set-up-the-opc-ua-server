@@ -24,7 +24,7 @@ resources:
     properties:
       port: 4841
       resourcePath: /UA/CybusOpcuaServer
-      alternateHostname: localhost
+      alternateHostname: <INSERT_SERVER_IP>
       applicationUri: 'urn:cybus:opcua:server:1'
       allowAnonymous: true
       securityPolicies: ["None", "Basic256Sha256"]
