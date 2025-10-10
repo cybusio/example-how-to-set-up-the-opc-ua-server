@@ -1,10 +1,11 @@
 description: >
 
   Using Connectware as an OPC UA Server
+  https://docs.cybus.io/guides/system-connectivity/using-connectware-as-an-opc-ua-server
 
 metadata:
 
-  name: OPC UA Server Example Commissioning File
+  name: OPC UA Server Example Service Commissioning File
   version: 1.0.0
   icon: https://www.cybus.io/wp-content/uploads/2019/03/Cybus-logo-Claim-lang.svg
   provider: cybus
